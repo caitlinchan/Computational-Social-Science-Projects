@@ -1,0 +1,13 @@
+cd C:\Users\caitl\Documents\Computational-Social-Science-Projects\Project1
+cd ~
+pwd
+cd /c/Users/caitl/Documents
+git clone https://github.com/caitlinchan/Computational-Social-Science-Projects.git
+cd /c/Users/caitl/Documents/Computational-Social-Science-Projects/            
+mkdir Project1
+cd /c/Users/caitl/Documents/Computational-Social-Science-Projects/Project1/
+touch text.txt
+nano text.txt
+git add *
+git commit -m "These are my commands"
+git push -u origin
